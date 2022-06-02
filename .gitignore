@@ -86,4 +86,6 @@ target/
 *.swo
 
 # Mypy cache
-.mypy_cache/
+#.mypy_cache/
+#/Training_Batch_Files
+#/Prediction_Batch_files
